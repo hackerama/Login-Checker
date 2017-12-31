@@ -1,0 +1,7 @@
+usuario:senha
+user:pass
+root:toor
+thunder:cat
+login:pass
+joao:dasquinta
+adm:passw
